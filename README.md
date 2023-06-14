@@ -1,0 +1,1 @@
+So this is a project with usage of cmake and SDL2 with submodules
